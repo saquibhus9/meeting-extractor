@@ -37,24 +37,17 @@ A full-stack web application that **transcribes and summarizes meeting recording
 ## 🎨 Demo
 
 ### Upload & Transcribe
-![Upload Page](assets/screenshots/Frontpage.png)
+![Upload Page](screenshots/Frontpage.png)
+
+## Demo Screenshots
+
+### Front Page
+![Front Page](screenshots/Frontpage.png)
+
+### Main Page
+![Main Page](screenshots/mainpage.png)
 
 ### Generated Summary
-![Summary Page](assets/screenshots/Audio Summarize.png)
-
-[main page](screenshots/mainpage.png)
-[front page](screenshots/Frontpage.png)
-
-
-meeting-extractor/
-├── assets/            # Screenshots & demo images
-├── backend/           # FastAPI backend
-│   ├── main.py
-│   └── requirements.txt
-├── frontend/          # HTML, Bootstrap & JS
-│   ├── index.html
-│   └── ...
-├── .gitignore
-└── README.md
+![Summary Page](screenshots/Audio Summarize.png)
 
 
