@@ -48,6 +48,7 @@ A full-stack web application that **transcribes and summarizes meeting recording
 ![Main Page](screenshots/mainpage.png)
 
 ### Generated Summary
-![Summary Page](screenshots/Audio Summarize.png)
+![Summary Page](screenshots/Audio_Summarize.png)
+
 
 
